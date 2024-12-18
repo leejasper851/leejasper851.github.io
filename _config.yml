@@ -21,12 +21,12 @@ repository               : "leejasper851/leejasper851.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Portrait3.png"
+  avatar           : "Portrait3.jpg"
   name             : "Jasper Lee"
-  pronouns         : "he/him" # example: "she/her"
+  # pronouns         : "he/him" # example: "she/her"
   bio              : "4th Year Undergraduate CS and Math Major at UT Austin"
   location         : "Austin, Texas"
-  employer         : "UT Austin"
+  employer         : "University of Texas at Austin"
   uri              : "https://leejasper851.github.io" # URL # TODO: is this necessary?
   email            : "leejasper851@gmail.com"
 
