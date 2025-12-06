@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jasper Lee"
 title_separator          : "-"
 name                     : &name "Jasper Lee"
-description              : &description "personal description" # TODO: update
+description              : &description "personal description" # TODO: jlee: update
 url                      : https://leejasper851.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leejasper851/leejasper851.github.io"
@@ -48,7 +48,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media # TODO: update all
+  # Social media # TODO: jlee: update all
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
