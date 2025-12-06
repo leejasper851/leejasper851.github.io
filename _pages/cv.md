@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to my CV](/files/JasperLeeCV.pdf)
+[Link to my CV](/files/Jasper_Lee_Resume.pdf)
 
 <!-- Education
 ======
