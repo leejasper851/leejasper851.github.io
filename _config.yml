@@ -21,7 +21,7 @@ repository               : "leejasper851/leejasper851.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "custom/Portrait3.jpg"
+  avatar           : "custom/portrait.jpg"
   name             : "Jasper Lee"
   # pronouns         : "he/him" # example: "she/her"
   bio              : "1st Year CS PhD Student at UIUC"
